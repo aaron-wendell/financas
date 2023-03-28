@@ -1,4 +1,4 @@
-## meu-blog
+## finanças
 
 Abra o diretório financas no terminal
 
