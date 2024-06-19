@@ -1,4 +1,4 @@
-## finanças
+## Finanças
 
 Você pode ver o app em funcionamento nesse video: https://aaronmoreiracampos-drive.mycozy.cloud/public?sharecode=SOgxpESNSpfA
 
