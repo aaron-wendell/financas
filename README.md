@@ -4,7 +4,6 @@ Você pode ver o app em funcionamento nesse video: https://aaronmoreiracampos-dr
 
 ![Financas](financas.gif)
 
-
 ## Instruções de uso
 
 Abra o diretório financas no terminal
@@ -19,4 +18,17 @@ Dentro do diretório financas, digite expo install para instalar as dependência
 
 Use npm start para rodar o expo
 
+## Login
+![login](/assets/login.jpg)
 
+## NavBar
+![navbar](/assets/navbar.jpg)
+
+## Home
+![home](/assets/home.jpg)
+
+## Registrar
+![registrar](/assets/registrar.jpg)
+
+## Usuário
+![usuario](/assets/usuario.jpg)
